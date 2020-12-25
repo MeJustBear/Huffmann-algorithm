@@ -1,0 +1,5 @@
+﻿  Huffman.cpp
+c:\users\pavel\desktop\курсач7\huffmann\huffman.cpp(135): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\pavel\desktop\курсач7\huffmann\huffman.cpp(163): warning C4244: инициализация: преобразование "std::streamoff" в "unsigned long", возможна потеря данных
+c:\users\pavel\desktop\курсач7\huffmann\huffman.cpp(245): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Huffmann.vcxproj -> C:\Users\Pavel\Desktop\Курсач7\Debug\Huffmann.exe
